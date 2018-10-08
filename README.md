@@ -16,7 +16,7 @@ The outcome of the CSS-CTF should be an increase of critical information securit
 
 ----
 
-# Organizational Taks
+# Operational Taks
 
 ## Initial Tasks
 
