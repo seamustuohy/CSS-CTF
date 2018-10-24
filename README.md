@@ -3,10 +3,10 @@
 ## What will it look like?
 
 - New CTF challenges will be released on a daily or semi-daily basis to CTF participants.
-- These challenges will take the participants down an investigative or support story that leads them to collect "flags." Sending the flags to the organizers leads to the organizers starting the next part of the days puzzle for those participants. 
+- These challenges will take the participants down an investigative or support story that leads them to collect "flags." Sending the flags to the organizers leads to the organizers starting the next part of the days puzzle for those participants.
 - CTF participants who need help will be able to go to a designated space to talk to someone who can help them learn skills they need.
 - Trainings on specific topics that are more advanced may also be available. (examining email headers, etc.)
-- At the end of [every day the first [X] number of people will be given a reward] or [the week every team who finished X number of challenges willbe given a reward.]
+- At the end of [every day the first [X] number of people will be given a reward] or [the week every team who finished X number of challenges will be given a reward.]
 - Possibly a scoreboard of some kind?
 
 ## What do we want it to accomplish?
@@ -23,7 +23,7 @@ The outcome of the CSS-CTF should be an increase of critical information securit
 * Identify key skills we want civil society to learn
 * Get organizers who are willing to take ownership over specific problems
 * Get clear description of what it is, why it should be done, who is involved, and what resources it will need
-* Get approval to do it from IFF organizers 
+* Get approval to do it from IFF organizers
 * Develop short step-by-steps for all problem topics
 * Create any game artifacts that are needed on the internet (VirusTotal, Websites, etc.)
 * Get any needed CTF management infrastructure in place
