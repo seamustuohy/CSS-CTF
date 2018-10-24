@@ -55,7 +55,9 @@ Team gets an email from a "civil society member" that says they think they recei
 - OSINT Challenges
   - Use a proxy to check for censorship, etc. on the internet from a specific location (google play store, etc.)
   - Whois (is it still worth it?)
-
+  - Shodan
+..- Passive SSL (Legit website changed a certificate)
+..- Verify a file is legit through checking it's public hash
 
 - Threat info sharing Challenges
   - Create an email alert with a google inbox search query that allows "other users" to find the "malicious attachment" from a phishing campaign
@@ -66,7 +68,7 @@ Team gets an email from a "civil society member" that says they think they recei
 
 - High value skills that no, to low, technically skilled civil society members could learn.
   - Ideally each skill could be learn-able in under 30 minutes
-  - .
+  - The ability to verify goodness, as well as hunt badness. A few challenges should result in "This file is authentic".
 
 ----
 
