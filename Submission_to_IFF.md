@@ -7,7 +7,7 @@ CTF for CSS at IFF
 ## Goal of the session
 _Describe it in just a sentence._ 
 
-To provide a space for entry-level technnical and collaborative skill development for members of civil society organnizations who are positioned to provide some security support to organizations and indivduals
+To provide a space for entry-level technnical and collaborative skill development for people who are positioned to provide some security support to organizations and indivduals. 
 
 ## Session Description
 
@@ -18,7 +18,7 @@ A week-long set of security puzzles to facilitate skill development and learning
 
 _Enter the email addresses your co-presenters used to register on this platform, separated by a comma. You cannot include your co-presenters until they have registered on the platform, but you can also add them later after the form is submitted. All your submitted sessions will be accessible in your user portal._ 
 
-Seamus Tuohy, the 5+ people who ar already expressed intrest, and others 
+Seamus Tuohy, the 15+ people who ar already expressed intrest, and others 
 
 ## Who is this session for?
 
