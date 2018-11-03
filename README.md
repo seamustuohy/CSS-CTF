@@ -48,6 +48,7 @@ Team gets an email from a "civil society member" that says they think they recei
   - Investigations based on an “Indicator of Compromise” // Identifying a malicious binary
     - Getting the hash of a file
     - Searching for indicators in virus-total (Have to get a member to add a flag to the comments?)
+    - View and run it in https://any.run to gather more information about what it does
     - Running a Yara Rule
     - Use a free sandbox tool to examine a possibly malicious site
     - find that there are macros in a "malicious" word document
