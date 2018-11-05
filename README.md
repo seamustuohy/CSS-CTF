@@ -48,14 +48,18 @@ Team gets an email from a "civil society member" that says they think they recei
   - Investigations based on an “Indicator of Compromise” // Identifying a malicious binary
     - Getting the hash of a file
     - Searching for indicators in virus-total (Have to get a member to add a flag to the comments?)
+    - Use Process Explorer / Process Hacker to locate any unusual processes running
     - View and run it in https://any.run to gather more information about what it does
     - Running a Yara Rule
     - Use a free sandbox tool to examine a possibly malicious site
     - find that there are macros in a "malicious" word document
+  - How to take a full forensic image of a device?
+    
 
 - OSINT Challenges
   - Use a proxy to check for censorship, etc. on the internet from a specific location (google play store, etc.)
   - Whois (is it still worth it?)
+  - How to use Google for effective OSINT (Google "Dorks" etc) 
   - Shodan
 ..- Passive SSL (Legit website changed a certificate)
 ..- Verify a file is legit through checking it's public hash
@@ -63,6 +67,7 @@ Team gets an email from a "civil society member" that says they think they recei
 - Threat info sharing Challenges
   - Create an email alert with a google inbox search query that allows "other users" to find the "malicious attachment" from a phishing campaign
   - Write an alert/guidance email that provides an accurate understanding of a specific type of attack and correct guidance for how to address it. (Reaching out to experts in the community for help highly encouraged. Bonus points for including links/introductions to real support services in the space)
+  -Use of CarnaryTokens as a last resort alert?
 
 
 ## Key Skills
@@ -70,6 +75,7 @@ Team gets an email from a "civil society member" that says they think they recei
 - High value skills that no, to low, technically skilled civil society members could learn.
   - Ideally each skill could be learn-able in under 30 minutes
   - The ability to verify goodness, as well as hunt badness. A few challenges should result in "This file is authentic".
+  - Each topic should be matched for free further learning resources - Youtube Training, Cybrary.it, SIAB, SSD, Umbrella, etc.
 
 ----
 
