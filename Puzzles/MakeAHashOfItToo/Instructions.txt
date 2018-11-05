@@ -1,0 +1,2 @@
+Change the name of the file to anything you want. Hash it again to show your colleague how the hash remains the same.
+Send us a file with a different name, but that has the same hashes of the first file.
