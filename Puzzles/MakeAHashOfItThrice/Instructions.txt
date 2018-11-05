@@ -1,0 +1,2 @@
+Add the original name of the file into the file as a single line. Then send us the new hash of it.
+You made a back up of a suspicious file before you changed anything didn't you?
