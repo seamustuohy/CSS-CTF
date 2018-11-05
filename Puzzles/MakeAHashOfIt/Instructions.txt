@@ -1,0 +1,2 @@
+Find someone who has never hashed a file, and teach them to do so.
+Send an MD5, a SHA1, or SHA256, to get credit.
