@@ -41,13 +41,14 @@ Team gets an email from a "civil society member" that says they think they recei
   - Getting a person (a CTF organizer) to send an email as an attachment
   - Setting up a secure channel to communicate with a user over
   - [Access folks?]
+  - Test existing incident reports and show how to safely gather data that might be needed for further examination at a later stage (e.g download an original suspicious email and file then zip it with a password)
   - Write an effective report on social media (Could we get someone from Facebook, twitter, etc. to allow us to do this, give us the success/failure evaluations of some of the actual graders, and run a training there on writing effective reports).
 
 - Forensic Challenges
   - Email Headers
   - Investigations based on an “Indicator of Compromise” // Identifying a malicious binary
     - Getting the hash of a file
-    - Searching for indicators in virus-total (Have to get a member to add a flag to the comments?)
+    - Searching for indicators in virus-total (Have to get a member to add a flag to the comments?). 
     - Use Process Explorer / Process Hacker to locate any unusual processes running
     - View and run it in https://any.run to gather more information about what it does
     - Running a Yara Rule
