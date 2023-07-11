@@ -1,5 +1,7 @@
 # CSS-CTF : Civil Society Security - Capture The Flag
 
+**This was an idea for an conference activity which the contributors didn't end up having time to develop fully. Since we've not found the  time to finish it over the last five years it is time to share the baseline effort so others can bild on it** - s2e     
+
 ## What will it look like?
 
 - New CTF challenges will be released on a daily or semi-daily basis to CTF participants.
